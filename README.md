@@ -16,10 +16,10 @@ After installation and executing the exe file you can use one of the following s
 
 
 ```
-CTRL+ALT+1
-CTRL+ALT+2
-CTRL+ALT+3
-CTRL+ALT+4
-CTRL+ALT+5
-CTRL+ALT+0 mute immediately
+CTRL+ALT+1 -> is mir egal
+CTRL+ALT+2 -> is do laecherlich oder
+CTRL+ALT+3 -> jetzt guck dir die scheisse an
+CTRL+ALT+4 -> junge junge junge junge
+CTRL+ALT+5 -> pannen nix koenner, originale nix koenner
+CTRL+ALT+0 -> mute immediately
 ```
