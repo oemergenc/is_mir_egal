@@ -1,4 +1,4 @@
-# is_mir_egal Autohotkey Shortcuts
+# is_mir_egal Autohotkey Shortcuts for Windows
 
 This project contains shortcuts for the is_mir_egal Autohotkey Script
 
