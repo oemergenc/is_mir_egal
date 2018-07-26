@@ -8,9 +8,9 @@ Install Autohotkey. Clone this repository. Compile the Script is_mir_egal.ahk an
 
 ### Prerequisites
 
-You need to habe Autohotkey installed on your system.
+You need to have Autohotkey installed on your system.
 
-### Usgae
+### Usage
 
 After installation and executing the exe file you can use one of the following shortcuts to play some funny sounds.
 
